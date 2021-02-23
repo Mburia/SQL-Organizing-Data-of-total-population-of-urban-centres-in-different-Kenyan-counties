@@ -1,5 +1,5 @@
 # SQL-Organizing-Data-of-total-population-of-urban-centres-in-different-Kenyan-counties
-In this REPO we use SQL to manage the following Datasets:
+In this REPO we use SQL to manage the following in memory sqlite database:
 1. Population by Urban Centres, 2009
 This dataset shows the total population of urban centres in different Kenyan counties.
 
